@@ -4312,7 +4312,7 @@ var ri, ii, ai, oi, si, ci, li, ui, di, fi, pi, mi, hi, gi, _i, vi = e(() => {
                 children: l(li, {
                     value: ci,
                     children: l(A, {
-                        href: `https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xComingSoon`,
+                        href: `https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x34504Bb19fdb0D9eC06A2Fa515e30cD6C6C02CEB`,
                         target:"_blank",
                         motionChild: !0,
                         nodeId: `gsmbPTvlC`,
