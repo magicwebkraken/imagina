@@ -1616,7 +1616,7 @@ var Yt, Xt, Zt, Qt, $t, en, tn, nn, rn, an, on, sn, cn, ln, Z, un, dn = e(() => 
                                                 id: `wNpxThduB`,
                                                 KLyjjWxxB: `Dextools`,
                                                 layoutId: `wNpxThduB`,
-                                                miRxX7aNw: `https://www.dextools.io/app/en/ether/pair-explorer/0xe1da6dc24963d1d8d5b2e551a50aec493532cec6?t=1754207396874`,
+                                                miRxX7aNw: `https://www.dextools.io/app/token/grokimagineoneth`,
                                                 style: {
                                                     width: `100%`,
                                                 },
