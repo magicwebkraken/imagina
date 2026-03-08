@@ -619,7 +619,7 @@ var Qe, $e, et, tt, nt, rt, it, at, ot, st, ct, lt, ut, dt, ft, pt, mt, K, ht, g
                                             children: d(Xe, {
                                                 height: `100%`,
                                                 id: `zthIpSaAr`,
-                                                KTQ59ssyr: `https://t.me/Imagineon_Eth`,
+                                                KTQ59ssyr: `https://t.me/GrokImagine_chat`,
                                                 layoutId: `zthIpSaAr`,
                                                 squSqLkk3: `TelegramLogo`,
                                                 variant: `w4QgrJY8C`,
@@ -655,7 +655,7 @@ var Qe, $e, et, tt, nt, rt, it, at, ot, st, ct, lt, ut, dt, ft, pt, mt, K, ht, g
                                             children: d(Xe, {
                                                 height: `100%`,
                                                 id: `lPrsyzSWP`,
-                                                KTQ59ssyr: `https://x.com/ImagineEth_X`,
+                                                KTQ59ssyr: `https://x.com/GrokImagine_X`,
                                                 layoutId: `lPrsyzSWP`,
                                                 squSqLkk3: `XLogo`,
                                                 variant: `w4QgrJY8C`,
@@ -1500,7 +1500,7 @@ var Yt, Xt, Zt, Qt, $t, en, tn, nn, rn, an, on, sn, cn, ln, Z, un, dn = e(() => 
                                                 id: `gkqc3Msc9`,
                                                 KLyjjWxxB: `X`,
                                                 layoutId: `gkqc3Msc9`,
-                                                miRxX7aNw: `https://x.com/ImagineEth_X`,
+                                                miRxX7aNw: `https://x.com/GrokImagine_X`,
                                                 style: {
                                                     width: `100%`
                                                 },
@@ -1529,7 +1529,7 @@ var Yt, Xt, Zt, Qt, $t, en, tn, nn, rn, an, on, sn, cn, ln, Z, un, dn = e(() => 
                                                 id: `waK4m7TBv`,
                                                 KLyjjWxxB: `Telegram`,
                                                 layoutId: `waK4m7TBv`,
-                                                miRxX7aNw: `https://t.me/Imagineon_Eth`,
+                                                miRxX7aNw: `https://t.me/GrokImagine_chat`,
                                                 style: {
                                                     width: `100%`
                                                 },

@@ -397,7 +397,7 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                                         children: /*#__PURE__*/ _jsx(SocialIcon, {
                                             height: "100%",
                                             id: "zthIpSaAr",
-                                            KTQ59ssyr: "https://t.me/Imagineon_Eth",
+                                            KTQ59ssyr: "https://t.me/GrokImagine_chat",
                                             layoutId: "zthIpSaAr",
                                             squSqLkk3: "TelegramLogo",
                                             variant: "w4QgrJY8C",
@@ -433,7 +433,7 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                                         children: /*#__PURE__*/ _jsx(SocialIcon, {
                                             height: "100%",
                                             id: "lPrsyzSWP",
-                                            KTQ59ssyr: "https://x.com/ImagineEth_X",
+                                            KTQ59ssyr: "https://x.com/GrokImagine_X",
                                             layoutId: "lPrsyzSWP",
                                             squSqLkk3: "XLogo",
                                             variant: "w4QgrJY8C",
