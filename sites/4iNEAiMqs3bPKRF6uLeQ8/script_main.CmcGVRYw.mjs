@@ -566,7 +566,7 @@ var Qe, $e, et, tt, nt, rt, it, at, ot, st, ct, lt, ut, dt, ft, pt, mt, K, ht, g
                                                         "--framer-text-alignment": `left`,
                                                         "--framer-text-color": `var(--extracted-r6o4lv, var(--token-09ea5b55-cb41-495a-a653-c8b316e5c96d, rgba(255, 255, 255, 0.5)))`
                                                     },
-                                                    children: `CA: 0xComingSoon`
+                                                    children: `CA: 0x51FC32124EC68aEDc38b700dC68BCC6f8369ACB3`
                                                 })
                                             }),
                                             className: `framer-kqgzz5`,
@@ -1558,7 +1558,7 @@ var Yt, Xt, Zt, Qt, $t, en, tn, nn, rn, an, on, sn, cn, ln, Z, un, dn = e(() => 
                                                 id: `bVEV0wP6n`,
                                                 KLyjjWxxB: `Buy $IMAGINE`,
                                                 layoutId: `bVEV0wP6n`,
-                                                miRxX7aNw: `https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xComingSoon`,
+                                                miRxX7aNw: `https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x51FC32124EC68aEDc38b700dC68BCC6f8369ACB3`,
                                                 style: {
                                                     width: `100%`
                                                 },
@@ -1587,7 +1587,7 @@ var Yt, Xt, Zt, Qt, $t, en, tn, nn, rn, an, on, sn, cn, ln, Z, un, dn = e(() => 
                                                 id: `wNpxThduB`,
                                                 KLyjjWxxB: `Dexscreener`,
                                                 layoutId: `wNpxThduB`,
-                                                miRxX7aNw: `https://dexscreener.com/ethereum/0xComingSoon`,
+                                                miRxX7aNw: `https://dexscreener.com/ethereum/0x51FC32124EC68aEDc38b700dC68BCC6f8369ACB3`,
                                                 style: {
                                                     width: `100%`
                                                 },

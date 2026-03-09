@@ -344,7 +344,7 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                                                     "--framer-text-alignment": "left",
                                                     "--framer-text-color": "var(--extracted-r6o4lv, var(--token-09ea5b55-cb41-495a-a653-c8b316e5c96d, rgba(255, 255, 255, 0.5)))"
                                                 },
-                                                children: "0xComingSoon"
+                                                children: "0x51FC32124EC68aEDc38b700dC68BCC6f8369ACB3"
                                             })
                                         }),
                                         className: "framer-kqgzz5",

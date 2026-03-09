@@ -360,7 +360,7 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                                             id: "bVEV0wP6n",
                                             KLyjjWxxB: "Buy $IMAGINE",
                                             layoutId: "bVEV0wP6n",
-                                            miRxX7aNw: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xComingSoon",
+                                            miRxX7aNw: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x51FC32124EC68aEDc38b700dC68BCC6f8369ACB3",
                                             style: {
                                                 width: "100%"
                                             },
@@ -389,7 +389,7 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                                             id: "wNpxThduB",
                                             KLyjjWxxB: "Dexscreener",
                                             layoutId: "wNpxThduB",
-                                            miRxX7aNw: "https://dexscreener.com/ethereum/0xComingSoon",
+                                            miRxX7aNw: "https://dexscreener.com/ethereum/0x51FC32124EC68aEDc38b700dC68BCC6f8369ACB3",
                                             style: {
                                                 width: "100%"
                                             },

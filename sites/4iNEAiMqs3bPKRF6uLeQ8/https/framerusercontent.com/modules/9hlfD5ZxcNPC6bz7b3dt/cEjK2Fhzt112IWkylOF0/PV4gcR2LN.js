@@ -163,7 +163,7 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
             children: /*#__PURE__*/ _jsx(Transition, {
                 value: transition1,
                 children: /*#__PURE__*/ _jsx(Link, {
-                    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xComingSoon",
+                    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x51FC32124EC68aEDc38b700dC68BCC6f8369ACB3",
                     motionChild: true,
                     nodeId: "gsmbPTvlC",
                     openInNewTab: false,
