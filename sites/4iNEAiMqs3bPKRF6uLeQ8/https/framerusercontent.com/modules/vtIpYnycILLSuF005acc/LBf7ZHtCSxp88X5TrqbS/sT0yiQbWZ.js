@@ -302,7 +302,7 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                                             id: "gkqc3Msc9",
                                             KLyjjWxxB: "X",
                                             layoutId: "gkqc3Msc9",
-                                            miRxX7aNw: "https://x.com/GrokImagine_X",
+                                            miRxX7aNw: "https://x.com/grokimagineEthX",
                                             style: {
                                                 width: "100%"
                                             },
@@ -331,7 +331,7 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                                             id: "waK4m7TBv",
                                             KLyjjWxxB: "Telegram",
                                             layoutId: "waK4m7TBv",
-                                            miRxX7aNw: "https://t.me/GrokImagine_chat",
+                                            miRxX7aNw: "https://t.me/grokimagine_chat",
                                             style: {
                                                 width: "100%"
                                             },
